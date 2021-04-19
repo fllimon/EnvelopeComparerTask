@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvelopeComparerLib", "EnvelopeComparerLib\EnvelopeComparerLib.csproj", "{1F11F760-B482-4B83-A20C-494AC65687D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvelopeView", "EnvelopeView\EnvelopeView.csproj", "{22428DB1-AA12-43DE-AB16-9E414604FA1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1F11F760-B482-4B83-A20C-494AC65687D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F11F760-B482-4B83-A20C-494AC65687D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F11F760-B482-4B83-A20C-494AC65687D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22428DB1-AA12-43DE-AB16-9E414604FA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22428DB1-AA12-43DE-AB16-9E414604FA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22428DB1-AA12-43DE-AB16-9E414604FA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22428DB1-AA12-43DE-AB16-9E414604FA1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
